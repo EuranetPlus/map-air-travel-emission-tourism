@@ -1,6 +1,6 @@
 {
-  "heading": "Turismrelaterade flygutsläpp i EU27",
-  "subheading": "Franska flygpassagerare noterar de högsta utsläppen per person (med 132,7 kg CO2 p.p.), medan letterna rankas sist (63,22 kg CO2 p.p.). Sammantaget är dessa siffror för 2022 27,3 % lägre än 2021.",
+  "heading": "Mängden turismrelaterade flygutsläpp av koldioxid som släpps ut per passagerare i EU27",
+  "subheading": "Högre landvärden förknippas vanligtvis med långdistansflygningar. Sammantaget är dessa siffror för 2022 27,3 % lägre än 2021.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "kg CO2/passagerare",
   "textSourceDescription": "Källa",
@@ -9,23 +9,5 @@
   "textNote": "Denna indikator är en uppskattning av den genomsnittliga mängden CO2 som släpps ut per flygpassagerare och rapporterande land. Den beräknas genom att dela mängden CO2 som släpps ut från alla passagerarflyg med antalet passagerare inom ett år. Utsläppsmängderna och antalet flygpassagerare är kopplade till flygplatsen för avgående flyg. Därför tar indikatorn hänsyn, för varje flygplats, både invånare som reser till ett turistmål och turister som återvänder hem. Lägre värden indikerar lägre utsläpp per flygpassagerare. Högre landvärden förknippas vanligtvis med långdistansflygningar.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/avia_paoc",
-  "textCountryClick": "Klicka för mer info",
-  "extraInfoText_BE": "Eftersom behovet av enhällighet orsakar en byråkratisk flaskhals på många områden, finns det en viss logik att gå mot omröstning med kvalificerad majoritet där så är möjligt. I praktiken är kvalificerad majoritet när 15 av de 27 medlemsländerna röstar för något, så länge de tillsammans representerar mer än 65 procent av EU:s 450 miljoner medborgare.",
-  "extraInfoLink_BE": "Läs mer",
-  "extraInfoText_DE": "Det är förmodligen ingen slump att EU-kommissionen bara två dagar senare meddelade att den äntligen skulle utlösa villkorsmekanismen, som kopplar utbetalningen av EU-medel till respekten för rättsstatsprincipen. Budapest möter kritik för begränsningar av mediefrihet, intressekonflikter och korruption.",
-  "extraInfoLink_DE": "Läs mer",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "I detta sammanhang har den bulgariska regeringen inrättat en ny enhet för medieövervakning. Den nya enheten är utformad för att övervaka alla former av media för riktad desinformation men har – till skillnad från landets oberoende Council for Electronic Media – inte befogenhet att reglera eller sanktionera. Och det borde det inte heller, betonar Bozhanov i en intervju med Bulgarian National Radio.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, statssekreterare vid Sloveniens utrikesministerium och medlem i konferenskommittén, säger att Slovenien verkligen inte drar sig för modiga beslut eller avvisar möjligheten till en övergång till kvalificerad majoritet. Han menar dock att det fortfarande finns en plats för konsensusbeslut.",
-  "extraInfoLink_IT": "Mer information",
-  "extraInfoText_LU": "Ändå är den luxemburgske parlamentsledamoten Marc Angel övertygad om att fördragsändringar är absolut nödvändiga – inte bara för att göra beslutsfattande förfaranden mindre krångliga, utan också för att vidga EU:s behörighetsområde. Han hävdar, i en intervju med Luxemburgs nationella programföretag 100,7, att EU-medborgare tydligt bad om detta under konferensprocessen.",
-  "extraInfoLink_LU": "Läs mer",
-  "extraInfoText_PL": "Liutauras Gudzinskas, professor i statsvetenskap vid Vilnius universitet, säger till Žinių Radijas att även om EU-kommissionens förslag att stärka mediernas mångfald och oberoende och skydda dem från politisk eller affärsmässig inblandning kan vara ett användbart förebyggande verktyg i många länder, så är det troligt. för sent för Ungern.",
-  "extraInfoLink_PL": "Mer information",
-  "extraInfoText_RO": "Trots att det är världspressfrihetsdagen den 3 maj, firar Litauen pressfriheten varje år den 7 maj – eftersom detta datum markerar slutet på tsarförbudet mot publicering och distribution av böcker på litauiska.",
-  "extraInfoLink_RO": "Kolla detta",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Klicka för mer info"
 }

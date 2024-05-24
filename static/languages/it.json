@@ -1,6 +1,6 @@
 {
-  "heading": "Emissioni del trasporto aereo legate al turismo nell’UE27",
-  "subheading": "I passeggeri aerei francesi registrano le emissioni pro capite più elevate (con 132,7 kg di CO2 p.p.), mentre i lettoni si collocano all’ultimo posto (63,22 kg di CO2 p.p.). Nel complesso, queste cifre per il 2022 sono inferiori del 27,3% rispetto al 2021.",
+  "heading": "Quantità di emissioni di biossido di carbonio del trasporto aereo legate al turismo emesse per passeggero nell'UE27",
+  "subheading": "Valori nazionali più elevati sono solitamente associati ai voli a lungo raggio. Nel complesso, queste cifre per il 2022 sono inferiori del 27,3% rispetto al 2021.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "kg CO2/passeggero",
   "textSourceDescription": "Fonte",
@@ -9,23 +9,5 @@
   "textNote": "Questo indicatore è una stima della quantità media di CO2 emessa per passeggero aereo per paese dichiarante. Si calcola dividendo la quantità di CO2 emessa da tutti i voli passeggeri per il numero di passeggeri in un anno. Le quantità di emissioni e il numero di passeggeri aerei sono associati all'aeroporto di partenza dei voli. L'indicatore tiene quindi conto, per ogni aeroporto, sia dei residenti in partenza per una destinazione turistica, sia dei turisti che ritornano a casa. Valori più bassi indicano emissioni inferiori per passeggero aereo. Valori nazionali più elevati sono solitamente associati ai voli a lungo raggio.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/avia_paoc",
-  "textCountryClick": "Fare clic per maggiori informazioni",
-  "extraInfoText_BE": "Dato che la necessità dell’unanimità causa un collo di bottiglia burocratico in molti settori, è logico procedere, ove possibile, verso il voto a maggioranza qualificata. In pratica, si parla di maggioranza qualificata quando 15 dei 27 Stati membri votano a favore di qualcosa, purché insieme rappresentino più del 65% dei 450 milioni di cittadini dell’UE.",
-  "extraInfoLink_BE": "Per saperne di più",
-  "extraInfoText_DE": "Probabilmente non è un caso che, appena due giorni dopo, la Commissione europea abbia annunciato che avrebbe finalmente attivato il meccanismo di condizionalità, che vincola il pagamento dei fondi UE al rispetto dello Stato di diritto. Budapest si trova ad affrontare critiche per le restrizioni alla libertà dei media, i conflitti di interessi e la corruzione.",
-  "extraInfoLink_DE": "Per saperne di più",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "In questo contesto, il governo bulgaro ha istituito una nuova unità di monitoraggio dei media. La nuova unità è progettata per monitorare tutte le forme di media alla ricerca di disinformazione mirata ma, a differenza del Consiglio indipendente per i media elettronici del paese, non ha il potere di regolamentare o sanzionare. E non dovrebbe nemmeno farlo, sottolinea Bozhanov in un'intervista alla Radio nazionale bulgara.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, segretario di Stato del Ministero degli Esteri sloveno e membro del comitato della Conferenza, afferma che la Slovenia non si tira indietro davanti a decisioni coraggiose né rifiuta la possibilità di un passaggio verso maggioranze qualificate. Tuttavia, ritiene che ci sia ancora spazio per un processo decisionale consensuale.",
-  "extraInfoLink_IT": "Ulteriori informazioni",
-  "extraInfoText_LU": "Eppure l’eurodeputato lussemburghese Marc Angel è convinto che siano assolutamente necessarie modifiche al trattato, non solo per rendere le procedure decisionali meno complicate, ma anche per ampliare la sfera di competenza dell’UE. Egli afferma, in un’intervista all’emittente nazionale lussemburghese 100,7, che i cittadini dell’UE lo hanno chiaramente chiesto durante il processo della Conferenza.",
-  "extraInfoLink_LU": "Per saperne di più",
-  "extraInfoText_PL": "Liutauras Gudzinskas, professore di scienze politiche all'Università di Vilnius, dice a Žinių Radijas che, sebbene la proposta della Commissione europea di rafforzare il pluralismo e l'indipendenza dei media e di proteggerli dalle interferenze politiche o economiche possa essere un utile strumento preventivo in molti paesi, è probabile troppo tardi per l'Ungheria.",
-  "extraInfoLink_PL": "Maggiori informazioni",
-  "extraInfoText_RO": "Anche se il 3 maggio è la Giornata mondiale della libertà di stampa, la Lituania celebra la libertà di stampa ogni anno il 7 maggio, perché questa data segna la fine del divieto zarista sulla pubblicazione e distribuzione di libri in lituano.",
-  "extraInfoLink_RO": "Controllare questo",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Fare clic per maggiori informazioni"
 }

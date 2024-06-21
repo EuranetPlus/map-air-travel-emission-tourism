@@ -1,13 +1,13 @@
 {
-  "heading": "Mængde af turismerelaterede luftfartsemissioner af kuldioxid udledt pr. passager i EU27",
-  "subheading": "Højere landeværdier er normalt forbundet med langdistanceflyvninger. Samlet set er disse 2022-tal 27,3 % lavere end 2021.",
+  "heading": "Kuldioxidemissioner fra turisme i EU",
+  "subheading": "Mængden af turismerelaterede kuldioxidemissioner pr. passager i EU27. Samlet set er tallene for 2022 27,3 % lavere end for 2021.",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "kg CO2/passager",
   "textSourceDescription": "Kilde",
   "textSource": "Eurocontrol, Eurostat",
   "textNoteDescription": "Bemærk",
-  "textNote": "Denne indikator er et skøn over den gennemsnitlige mængde CO2, der udledes pr. flypassager pr. rapporterende land. Den beregnes ved at dividere mængden af CO2, der udledes af alle passagerflyvninger, med antallet af passagerer inden for et år. Emissionsmængderne og antallet af flypassagerer er knyttet til lufthavnen for afgående flyvninger. Derfor tager indikatoren højde for, for hver lufthavn, både beboere, der rejser til en turistdestination, og turister, der vender hjem. Lavere værdier indikerer lavere emissioner pr. flypassager. Højere landeværdier er normalt forbundet med langdistanceflyvninger.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Denne indikator er et skøn over den gennemsnitlige mængde CO2, der udledes pr. flypassager pr. rapporterende land. Det beregnes ved at dividere mængden af CO2, der udledes af alle passagerflyvninger, med antallet af passagerer inden for et år. Emissionsmængderne og antallet af flypassagerer er knyttet til lufthavnen for afgående flyvninger. Derfor tager indikatoren højde for, for hver lufthavn, både beboere, der rejser til en turistdestination, og turister, der vender hjem. Lavere værdier indikerer lavere emissioner pr. flypassager. Højere landeværdier er normalt forbundet med langdistanceflyvninger.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/avia_paoc",
   "textCountryClick": "Klik for mere info"
 }

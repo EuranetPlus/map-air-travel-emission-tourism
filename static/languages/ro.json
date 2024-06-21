@@ -1,12 +1,12 @@
 {
-  "heading": "Cantitatea de emisii de dioxid de carbon din aviație legate de turism emise per pasager în UE27",
-  "subheading": "Valorile mai mari ale țării sunt de obicei asociate cu zborurile pe distanțe lungi. În general, aceste cifre din 2022 sunt cu 27,3% mai mici decât cele din 2021.",
+  "heading": "Emisiile de dioxid de carbon din turism în UE",
+  "subheading": "Cantitatea de emisii de dioxid de carbon legate de turism per pasager în UE27. Per total, cifrele pentru 2022 sunt cu 27,3% mai mici decât cele pentru 2021.",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "kg CO2/pasager",
   "textSourceDescription": "Sursă",
   "textSource": "Eurocontrol, Eurostat",
   "textNoteDescription": "Notă",
-  "textNote": "Acest indicator este o estimare a cantității medii de CO2 emisă per pasager aerian per țară raportoare. Se calculează împărțind cantitatea de CO2 emisă de toate zborurile de pasageri la numărul de pasageri într-un an. Cantitățile de emisii și numărul de pasageri aerieni sunt asociate cu aeroportul zborurilor de plecare. Prin urmare, indicatorul ia în considerare, pentru fiecare aeroport, atât rezidenții care pleacă spre o destinație turistică, cât și turiștii care se întorc acasă. Valorile mai mici indică emisii mai scăzute per pasager. Valorile mai mari ale țării sunt de obicei asociate cu zborurile pe distanțe lungi.",
+  "textNote": "Acest indicator este o estimare a cantității medii de CO2 emisă per pasager aerian per țară raportoare. Se calculează împărțind cantitatea de CO2 emisă de toate zborurile de pasageri la numărul de pasageri într-un an. Cantitățile de emisii și numărul de pasageri aerieni sunt asociate cu aeroportul zborurilor de plecare. Prin urmare, indicatorul ia în considerare, pentru fiecare aeroport, atât rezidenții care pleacă spre o destinație turistică, cât și turiștii care se întorc acasă. Valorile mai mici indică emisii mai mici per pasager. Valorile mai mari ale țării sunt de obicei asociate cu zborurile pe distanțe lungi.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/avia_paoc",
   "textCountryClick": "Click pentru mai multe informații"
